@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="header banner" />
+<img src="header-banner.svg" width="100%" alt="header banner" />
 
 <a href="https://github.com/KavyanshSharma09">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+performance-focused+backend+systems;Compiler+%2F+Language+Design+%E2%80%94+KLang;Live+PostgreSQL+platform+%E2%80%94+Verses1;Seeking+an+entry-level+SDE+role" alt="Typing SVG" />
@@ -92,8 +92,6 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 - Delivered a measured **40% execution speed increase** on benchmarked workloads
 - Auto-flags NumPy → CuPy migration points with no manual profiling required
 
-> Repo links above assume the repo names match the project names — update them if your actual repo names differ.
-
 <br/>
 
 ## GitHub Stats
@@ -127,5 +125,5 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 <br/>
 
 <div align="center">
-<img src="./assets/footer-banner.svg" width="100%" alt="footer banner" />
+<img src="footer-banner.svg" width="100%" alt="footer banner" />
 </div>
