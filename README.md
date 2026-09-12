@@ -92,6 +92,7 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 - Delivered a measured **40% execution speed increase** on benchmarked workloads
 - Auto-flags NumPy → CuPy migration points with no manual profiling required
 
+> Repo links above assume the repo names match the project names — update them if your actual repo names differ.
 
 <br/>
 
