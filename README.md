@@ -1,134 +1,134 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Kavyansh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20smarter,%20faster%20compute%20systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=200&section=header&text=Kavyansh%20Sharma&fontSize=42&fontColor=E6FCFF&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer%20%7C%20Compiler%20Design&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Building+Smart+Compute+Analyzer+%F0%9F%A7%A0;CPU+vs+GPU+Execution+Intelligence+for+Python;Performance-Aware+ML+%2B+GPU+Acceleration;District-Level+Badminton+Player+%F0%9F%8F%B8;F1+%26+High-Performance+Engineering+Fan+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+<a href="https://github.com/KavyanshSharma09">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+performance-focused+backend+systems;Compiler+%2F+Language+Design+%E2%80%94+KLang+(LLVM);Live+PostgreSQL+platform+%E2%80%94+Verses1;Seeking+an+entry-level+SDE+role" alt="Typing SVG" />
 </a>
 
-</div>
+<br/>
 
----
-
-### 💫 About Me
-
-```yaml
-🔭 Currently Building:
-   Smart Compute Analyzer — a system that intelligently decides
-   CPU vs GPU execution for Python programs.
-   Designing performance-aware ML models to classify compute-intensive workloads.
-   Backend optimization using Python, NumPy, CuPy & Numba.
-
-👯 Looking to Collaborate On:
-   AI/ML infrastructure projects
-   Performance optimization systems
-   Developer productivity tools
-   Open-source Python libraries
-
-🤝 Looking for Help With:
-   Advanced GPU computing patterns
-   Compiler-level optimizations
-   Distributed systems design
-   Writing scalable, production-grade AI systems
-
-🌱 Currently Learning:
-   System design for scalable applications
-   Deep optimization techniques
-   Advanced data structures & algorithms
-   Applied ML for performance modeling
-
-💬 Ask Me About:
-   Python & backend development
-   AI/ML fundamentals
-   Competitive programming
-   GPU acceleration in Python
-   Control systems & performance tuning
-
-⚡ Fun Fact:
-   District-level badminton player 🏸
-   Passionate about Formula 1 & high-performance engineering 🏎️
-```
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyansh-sharma-99592632b/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KavyanshSharma09)
+<a href="https://www.linkedin.com/in/kavyansh-sharma-99592632b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
+<a href="mailto:kavyanshsharma362@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" /></a>
+<a href="https://leetcode.com/u/Kavyansh_123211/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF&labelColor=0D1117" /></a>
+<a href="https://codeforces.com/profile/Kavyansh43254"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00E5FF&labelColor=0D1117" /></a>
 
 </div>
 
----
+<br/>
 
-### 💻 Tech Stack
+## About Me
+
+B.Tech CSE graduate (AKTU, May 2026) focused on **performance-oriented backend systems** and **compiler tooling**. I designed and shipped **KLang**, a Python-like language with a native LLVM backend running **20.7× faster than CPython**, and **Verses1**, a live PostgreSQL-backed platform with OAuth auth and a real weekly active user base. I also completed an AI/ML internship with **Google for Developers**.
+
+- 🔭 Currently building compiler and backend infrastructure projects
+- 🌱 Deepening my knowledge of LLVM, systems programming, and distributed backends
+- 🎯 Looking for an **entry-level Software Development Engineer** role
+- 💬 Ask me about compiler design, Django/FastAPI backends, or LLVM code generation
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Backend & Systems**
+<br/>
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LLVM-0D1117?style=flat-square&logo=llvm&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OAuth-0D1117?style=flat-square&logo=auth0&logoColor=00E5FF" />
 
-**Cloud & Databases**
+**Databases & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=00E5FF" />
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**ML / Data**
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/CuPy_%2F_GPU-0D1117?style=flat-square&logo=nvidia&logoColor=00E5FF" />
 
 **Tools**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KavyanshSharma09&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshSharma09&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=KavyanshSharma09&theme=radical&hide_border=true" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyanshSharma09&theme=redical&hide_border=true" width="90%" alt="activity graph"/>
+<br/>
+<img src="https://img.shields.io/badge/Git%2FGitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Google_Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=00E5FF" />
 
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Graph (Snake Animation)
+## Featured Projects
+
+### 🧠 [KLang — Custom Programming Language with LLVM Backend](https://github.com/KavyanshSharma09/KLang)
+Python-like language built from scratch: custom lexer, parser, AST generator, and a native LLVM code-generation backend.
+- Hybrid execution model — VM interpreter for fast iteration + LLVM JIT/AOT for near-hardware performance
+- **20.7× speedup** over CPython on recursive workloads (Fib(40): 588ms vs 12,179ms), 5.7–6.8× on loop-heavy tasks
+- Shipped with a Windows installer and integrated Tkinter IDE
+
+### ⚔️ [Verses1 — Competitive Code Efficiency Battle Platform](https://github.com/KavyanshSharma09/Verses1)
+Live coding battle platform where users compete on code efficiency, not just correctness.
+- AST-based static analysis detecting Big-O complexity, Halstead metrics, and security vulnerabilities
+- 68-problem bank across Easy/Medium/Hard with hidden test case validation
+- Google OAuth + Supabase/PostgreSQL for auth, persistent tracking, and battle history
+- Self-pinging keep-alive daemon to eliminate free-tier cold-start latency
+
+### ⚡ [PyOptimizer — Static GPU Performance Profiling Tool](https://github.com/KavyanshSharma09/PyOptimizer)
+Static analysis tool that scans Python code for CPU bottlenecks and recommends CuPy GPU alternatives.
+- Delivered a measured **40% execution speed increase** on benchmarked workloads
+- Auto-flags NumPy → CuPy migration points with no manual profiling required
+
+> Repo links above assume the repo names match the project names — update them if your actual repo names differ.
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KavyanshSharma09/KavyanshSharma09/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KavyanshSharma09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00B8D4&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshSharma09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="42%" />
 
-<sub>⚠️ Note: this snake animation needs a one-time GitHub Actions setup — see instructions below.</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavyanshSharma09&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%" />
 
 </div>
 
----
+<br/>
+
+## Contribution Graph
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/KavyanshSharma09/KavyanshSharma09/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=KavyanshSharma09&icon=0&color=0)](https://visitcount.itsvg.in)
+> This snake animation renders once you add the GitHub Action below to this repo (see setup note at the bottom).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<br/>
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+## Awards & Certifications
 
+- 🏆 2nd Place — College Tech Fest Coding Competition (Data Structures)
+- 👥 ACOT Member — Led technical mentorship programs & coding workshops
+- 📜 HackerRank Python Basic Certificate
+- 📜 HackerRank Software Engineer Certificate
+- 📜 AMD AI Developer Program — AI Hardware & Systems (NPU/GPU Architecture, Tensor Ops, Local AI Inference)
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
