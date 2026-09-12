@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-banner.svg" width="100%" alt="header banner" />
+<img src="./assets/header-banner.svg" width="100%" alt="header banner" />
 
 <a href="https://github.com/KavyanshSharma09">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+performance-focused+backend+systems;Compiler+%2F+Language+Design+%E2%80%94+KLang;Live+PostgreSQL+platform+%E2%80%94+Verses1;Seeking+an+entry-level+SDE+role" alt="Typing SVG" />
@@ -92,15 +92,13 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 - Delivered a measured **40% execution speed increase** on benchmarked workloads
 - Auto-flags NumPy → CuPy migration points with no manual profiling required
 
+> Repo links above assume the repo names match the project names — update them if your actual repo names differ.
 
 <br/>
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KavyanshSharma09&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=00B8D4&amp;text_color=C9D1D9&amp;count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshSharma09&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;text_color=C9D1D9" width="42%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=KavyanshSharma09&amp;hide_border=true&amp;background=0D1117&amp;stroke=00E5FF&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakLabel=00E5FF&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E" width="60%" alt="Streak Stats" />
 
@@ -129,5 +127,5 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 <br/>
 
 <div align="center">
-<img src="footer-banner.svg" width="100%" alt="footer banner" />
+<img src="./assets/footer-banner.svg" width="100%" alt="footer banner" />
 </div>
