@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kavyansh-sharma-99592632b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
-<a href="mailto:kavyanshsharma362@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" /></a>
-<a href="https://leetcode.com/u/Kavyansh_123211/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF&labelColor=0D1117" /></a>
-<a href="https://codeforces.com/profile/Kavyansh43254"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00E5FF&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/kavyansh-sharma-99592632b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF&amp;labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="mailto:kavyanshsharma362@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=00E5FF&amp;labelColor=0D1117" alt="Email" /></a>
+<a href="https://leetcode.com/u/Kavyansh_123211/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&amp;logo=leetcode&amp;logoColor=00E5FF&amp;labelColor=0D1117" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/Kavyansh43254"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&amp;logo=codeforces&amp;logoColor=00E5FF&amp;labelColor=0D1117" alt="Codeforces" /></a>
 
 </div>
 
@@ -34,39 +34,39 @@ B.Tech CSE graduate (AKTU, May 2026) focused on **performance-oriented backend s
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&amp;logo=python&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&amp;logo=postgresql&amp;logoColor=00E5FF" />
 
 **Backend & Systems**
 <br/>
-<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LLVM-0D1117?style=flat-square&logo=llvm&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/OAuth-0D1117?style=flat-square&logo=auth0&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&amp;logo=django&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&amp;logo=fastapi&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LLVM-0D1117?style=flat-square&amp;logo=llvm&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&amp;logo=fastapi&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OAuth-0D1117?style=flat-square&amp;logo=auth0&amp;logoColor=00E5FF" />
 
 **Databases & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&amp;logo=postgresql&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&amp;logo=mysql&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&amp;logo=supabase&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&amp;logo=redis&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&amp;logo=googlecloud&amp;logoColor=00E5FF" />
 
 **AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/CuPy_%2F_GPU-0D1117?style=flat-square&logo=nvidia&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&amp;logo=tensorflow&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&amp;logo=scikitlearn&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&amp;logo=numpy&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&amp;logo=pandas&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&amp;logo=opencv&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/CuPy_%2F_GPU-0D1117?style=flat-square&amp;logo=nvidia&amp;logoColor=00E5FF" />
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git%2FGitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Google_Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Git%2FGitHub-0D1117?style=flat-square&amp;logo=github&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Google_Colab-0D1117?style=flat-square&amp;logo=googlecolab&amp;logoColor=00E5FF" />
 
 </div>
 
@@ -100,10 +100,10 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KavyanshSharma09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00B8D4&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshSharma09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KavyanshSharma09&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=00B8D4&amp;text_color=C9D1D9&amp;count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshSharma09&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;text_color=C9D1D9" width="42%" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavyanshSharma09&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=KavyanshSharma09&amp;hide_border=true&amp;background=0D1117&amp;stroke=00E5FF&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakLabel=00E5FF&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E" width="60%" alt="Streak Stats" />
 
 </div>
 
@@ -112,7 +112,7 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 ## Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KavyanshSharma09/KavyanshSharma09/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/KavyanshSharma09/KavyanshSharma09/output/github-contribution-grid-snake.svg" width="100%" alt="Snake contribution graph" />
 </div>
 
 > This snake animation renders once you add the GitHub Action below to this repo (see setup note at the bottom).
