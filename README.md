@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".header-banner.svg" width="100%" alt="header banner" />
+<img src="header-banner.svg" width="100%" alt="header banner" />
 
 <a href="https://github.com/KavyanshSharma09">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+performance-focused+backend+systems;Compiler+%2F+Language+Design+%E2%80%94+KLang;Live+PostgreSQL+platform+%E2%80%94+Verses1;Seeking+an+entry-level+SDE+role" alt="Typing SVG" />
