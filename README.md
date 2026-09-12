@@ -110,8 +110,6 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 <img src="https://raw.githubusercontent.com/KavyanshSharma09/KavyanshSharma09/output/github-contribution-grid-snake.svg" width="100%" alt="Snake contribution graph" />
 </div>
 
-> This snake animation renders once you add the GitHub Action below to this repo (see setup note at the bottom).
-
 <br/>
 
 ## Awards & Certifications
