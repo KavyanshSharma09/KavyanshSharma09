@@ -129,5 +129,5 @@ Static analysis tool that scans Python code for CPU bottlenecks and recommends C
 <br/>
 
 <div align="center">
-<img src="./assets/footer-banner.svg" width="100%" alt="footer banner" />
+<img src="footer-banner.svg" width="100%" alt="footer banner" />
 </div>
