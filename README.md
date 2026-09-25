@@ -21,10 +21,10 @@
 
 B.Tech CSE graduate (AKTU, May 2026) focused on **performance-oriented backend systems** and **compiler tooling**. I designed and shipped **KLang**, a Python-like language with a native LLVM backend running **20.7× faster than CPython**, and **Verses1**, a live PostgreSQL-backed platform with OAuth auth and a real weekly active user base. I also completed an AI/ML internship with **Google for Developers**.
 
-- 🔭 Currently building compiler and backend infrastructure projects
-- 🌱 Deepening my knowledge of LLVM, systems programming, and distributed backends
-- 🎯 Looking for an **entry-level Software Development Engineer** role
-- 💬 Ask me about compiler design, Django/FastAPI backends, or LLVM code generation
+- Currently building compiler and backend infrastructure projects
+- Deepening my knowledge of LLVM, systems programming, and distributed backends
+- Looking for an **entry-level Software Development Engineer** role
+- Ask me about compiler design, Django/FastAPI backends, or LLVM code generation
 
 <br/>
 
