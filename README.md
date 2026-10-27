@@ -1,7 +1,8 @@
-```console
-kavyansh@github:~$ whoami
-Kavyansh Sharma
+<div align="center">
+  <img src="assets/intro.svg" width="100%" alt="Kavyansh Sharma" />
+</div>
 
+```console
 kavyansh@github:~$ cat role.txt
 Backend engineer  |  LLM and agent tooling  |  B.Tech CSE, AKTU '26
 Open to entry-level SDE roles
