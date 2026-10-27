@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/intro.svg" width="100%" alt="Kavyansh Sharma" />
+  <img src="intro.svg" width="100%" alt="Kavyansh Sharma" />
 </div>
 
 ```console
