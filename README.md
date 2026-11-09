@@ -12,7 +12,7 @@ Open to entry-level SDE roles
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=2EA043&width=600&lines=%24+building+performance-focused+backends;%24+building+local+LLM+tooling;%24+shipping+live+PostgreSQL+platforms;%24+status%3A+open+to+work" alt="typing" />
 </a>
 
-[LinkedIn](https://www.linkedin.com/in/kavyansh-sharma-99592632b/) &nbsp;/&nbsp; [Email](mailto:kavyanshsharma362@gmail.com) &nbsp;/&nbsp; [LeetCode](https://leetcode.com/u/Kavyansh_123211/) &nbsp;/&nbsp
+[LinkedIn](https://www.linkedin.com/in/kavyansh-sharma-99592632b/) &nbsp;/&nbsp; [Email](mailto:kavyanshsharma362@gmail.com) &nbsp;/&nbsp; [LeetCode](https://leetcode.com/u/Kavyansh_123211/).
 
 ---
 
